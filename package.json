@@ -1,0 +1,23 @@
+{
+  "name": "api-rest-js-movies",
+  "version": "1.0.0",
+  "description": "curso practico de consumo de una api movies js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolascastro77/api-rest-js-movies.git"
+  },
+  "author": "Diego Nicolas Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolascastro77/api-rest-js-movies/issues"
+  },
+  "homepage": "https://github.com/nicolascastro77/api-rest-js-movies#readme",
+  "dependencies": {
+    "axios": "^1.3.3"
+  },
+  "type": "module"
+}
